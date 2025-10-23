@@ -1,4 +1,6 @@
-👋 Hello there! I'm [Your Name]
+👋 Hello there! I'm 
+
+$$Moses Wasonga$$
 
 A tri-faceted professional bridging infrastructure, data intelligence, and user experience.
 
@@ -46,14 +48,45 @@ Frontend Development
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dflat-square%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5 Badge"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dflat-square%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3 Badge"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript Badge"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dblack" alt="React Badge"/>
 
+🔥 GitHub Stats & Streak
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=
+
+$$YourGitHubUsername$$
+
+&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="
+
+$$YourGitHubUsername$$
+
+'s GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D
+
+$$YourGitHubUsername$$
+
+&theme=default&hide_border=true" alt="
+
+$$YourGitHubUsername$$
+
+'s GitHub Streak" />
+</div>
+
 📞 Let's Connect!
 
-LinkedIn: [Your LinkedIn Profile URL]
+LinkedIn: 
 
-Email: [Your Email Address]
+$$Your LinkedIn Profile URL$$
+
+Email: 
+
+$$Your Email Address$$
 
 "Every great system requires a strong foundation, clear reporting, and an elegant interface."
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&color=blue&style=for-the-badge&label=Profile%20Views" alt="GitHub Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=
+
+$$YourGitHubUsername$$
+
+&color=blue&style=for-the-badge&label=Profile%20Views" alt="GitHub Profile Views"/>
 </p>
